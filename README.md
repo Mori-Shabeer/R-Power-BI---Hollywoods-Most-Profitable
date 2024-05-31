@@ -62,4 +62,4 @@ This assignment was a fun ride! I delved into the world of data with R Studio an
 ## Conclusion
 
 Overall, I had a blast working on this assignment! 🎉 Each step was a learning experience, and I can't wait to dive deeper into R Studio and Power BI. Practice makes perfect, and I’m excited to keep improving my skills.
-You can copy this content and save it into a .md file for your GitHub repository. If you need 
+
